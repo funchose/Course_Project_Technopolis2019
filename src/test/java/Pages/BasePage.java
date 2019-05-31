@@ -11,7 +11,6 @@ public abstract class BasePage {
     WebDriver driver;
 
     BasePage(WebDriver driver) {
-
         this.driver = driver;
         check();
     }

@@ -1,4 +1,4 @@
-package Driver;
+package ru.mail.polis.driver;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

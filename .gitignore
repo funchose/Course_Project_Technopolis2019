@@ -99,3 +99,7 @@ fabric.properties
 
 # Sonarlint plugin
 .idea/sonarlint
+
+.idea
+*.iml
+target
